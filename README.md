@@ -1,3 +1,5 @@
+通过cat /proc/net/dev获取当前linux网卡信息
+
 1.第一个流量监控脚本适用于centos
 # traffic_monitor.sh
 network eth0 traffic monitor   for centos
