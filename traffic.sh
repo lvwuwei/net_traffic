@@ -1,5 +1,7 @@
 #!/bin/bash
+#cat /proc/net/dev 
 #usage chmod +x traffic.sh
+#usage sh traffic.sh eth0
 while [ "1" ]
 do
 eth=$1
