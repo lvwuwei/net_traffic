@@ -8,9 +8,11 @@ network eth0 traffic monitor   for centos
 # sh traffic_monitor.sh eth0
 
 2.第二个流量监控脚本
+
 #traffic.sh
 执行代码
-#./traffic.sh
+#./traffic.sh eth0
+
 [root@localhost hbshell]# ./traffic.sh 
 IN: 1.74 KB
 OUT:1.17 KB
